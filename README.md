@@ -23,5 +23,5 @@
 </div> -->
 <div align="center">
     <h3>My Language Stats</h3>
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Adityeahhh&hide=css,html&theme=synthwave">
+   [![BOLT's GitHub stats](https://github-readme-stats.vercel.app/api?username=adipaadi)](https://github.com/adipaadi/github-readme-stats)
 </div>
