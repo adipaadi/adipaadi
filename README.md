@@ -22,6 +22,5 @@
   <img src="/github-metrics.svg" alt="Metrics">
 </div> -->
 <div align="center">
-    <h3>My Language Stats</h3>
-   [![BOLT's GitHub stats](https://github-readme-stats.vercel.app/api?username=adipaadi)](https://github.com/adipaadi/github-readme-stats)
+   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adipaadi&theme=radical)
 </div>
