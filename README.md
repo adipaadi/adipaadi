@@ -17,10 +17,7 @@
 <h3 align="center">Tools</h3>
 <p align="center"><img src="https://skillicons.dev/icons?i=vscode,figma,git"></p>
 <br>
-<!-- <div align="center">
+<div align="center">
  <h3>Github Stats:</h3> 
   <img src="/github-metrics.svg" alt="Metrics">
-</div> -->
-<div align="center">
-   <img src = ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adipaadi&theme=radical)>
 </div>
