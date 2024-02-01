@@ -22,5 +22,5 @@
   <img src="/github-metrics.svg" alt="Metrics">
 </div> -->
 <div align="center">
-   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adipaadi&theme=radical)
+   <img src = ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adipaadi&theme=radical)>
 </div>
