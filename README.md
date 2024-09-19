@@ -17,7 +17,4 @@
 <h3 align="center">Tools</h3>
 <p align="center"><img src="https://skillicons.dev/icons?i=vscode,figma,git"></p>
 <br>
-<div align="center">
- <h3>Github Stats:</h3> 
-  <img src="/github-metrics.svg" alt="Metrics">
-</div>
+
